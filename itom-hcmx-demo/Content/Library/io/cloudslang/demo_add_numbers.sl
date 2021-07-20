@@ -2,8 +2,8 @@ namespace: io.cloudslang
 flow:
   name: demo_add_numbers
   inputs:
-    - number1: '10'
-    - number2: '10'
+    - number1: '100'
+    - number2: '100'
   workflow:
     - add_numbers:
         do:
