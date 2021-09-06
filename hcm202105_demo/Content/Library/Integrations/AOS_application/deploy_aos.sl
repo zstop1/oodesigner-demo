@@ -66,11 +66,11 @@ extensions:
         x: 278
         'y': 141
       install_tomcat:
-        x: 469
-        'y': 140
+        x: 449
+        'y': 30
       install_aos_application:
-        x: 655
-        'y': 145
+        x: 653
+        'y': 122
         navigate:
           761aac5b-bbdc-6fc4-a222-e33db9f94492:
             targetId: 8bc42c2a-8c74-6231-9a12-9bb1588c3402
